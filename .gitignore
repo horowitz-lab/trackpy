@@ -49,3 +49,5 @@ soft-matter-docs-deploy
 # VS Code
 .vscode
 .venv
+
+*checkpoint.*
